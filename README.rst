@@ -24,9 +24,9 @@ The data folder here has some .csv point cloud files you can open in a point clo
 
 The simulated bathymetric point cloud data was generated using an instrument sampling model framework with raytracing and a time-dependent, dynamic water surface model.
 
-|viddemo|
+|gifdemo|
 
-.. |viddemo| image:: https://github.com/UCBoulder/Lidar-Simulations-AGU24/blob/main/graphics/example.mp4
+.. |gifdemo| image:: https://github.com/UCBoulder/Lidar-Simulations-AGU24/blob/main/graphics/example.gif
    :width: 60%
 
 License
