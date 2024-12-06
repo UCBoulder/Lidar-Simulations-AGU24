@@ -26,7 +26,7 @@ The simulated bathymetric point cloud data was generated using an instrument sam
 
 |viddemo|
 
-.. |viddemo| image:: https://github.com/UCBoulder/Lidar-Simulations-AGU24/graphics/example.mp4
+.. |viddemo| image:: https://github.com/UCBoulder/Lidar-Simulations-AGU24/blob/main/graphics/example.mp4
    :width: 60%
 
 License
