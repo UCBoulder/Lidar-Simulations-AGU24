@@ -1,6 +1,34 @@
 AGU 2024 Extras
 ===============
 
+About
+=====
+
+Author: Kevin Sacca (email:kevin.sacca@colorado.edu)
+
+The purpose of this page is to show off data, graphics, videos, and more from my research presented at AGU 2024 that cannot be part of my poster!
+
+AGU ESS Journal Paper Pre-print
+==============================
+
+Please head over to ESS OpenArchive to read my `latest pre-print <https://essopenarchive.org/users/858442/articles/1242050-empirical-quantification-of-topobathymetric-lidar-system-resolution-using-modulation-transfer-function>`_
+
+LiDAR Range-Height MTF Code
+===========================
+
+The GitHub repository `3DMTF <https://github.com/UCBoulder/3DMTF>`_ contains Python code for calculating range-height MTF from 3D LiDAR point clouds of point source and line source targets.
+
+Simulated Bathymetric LiDAR Data
+================================
+The data folder here has some .csv point cloud files you can open in a point cloud viewer such as CloudCompare to view.
+
+The simulated bathymetric point cloud data was generated using an instrument sampling model framework with raytracing and a time-dependent, dynamic water surface model.
+
+|viddemo|
+
+.. |viddemo| image:: https://github.com/UCBoulder/Lidar-Simulations-AGU24/graphics/example.mp4
+   :width: 60%
+
 License
 =======
 
@@ -26,21 +54,3 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-About
-=====
-
-Author: Kevin Sacca (email:kevin.sacca@colorado.edu)
-
-The purpose of this page is to show off data, graphics, videos, and more from my research presented at AGU 2024 that cannot be part of my poster!
-
-AGU ESS Journal Paper Pre-print
-==============================
-
-Please head over to ESS OpenArchive to read my `latest pre-print <https://essopenarchive.org/users/858442/articles/1242050-empirical-quantification-of-topobathymetric-lidar-system-resolution-using-modulation-transfer-function>`_
-
-LiDAR Range-Height MTF Code
-===========================
-
-The GitHub repository `3DMTF <https://github.com/UCBoulder/3DMTF>`_ contains Python code for calculating range-height MTF from 3D LiDAR point clouds of point source and line source targets.
-
