@@ -11,7 +11,7 @@ The purpose of this page is to show off data, graphics, videos, and more from my
 AGU ESS Journal Paper Pre-print
 ==============================
 
-Please head over to ESS OpenArchive to read my `latest pre-print <https://essopenarchive.org/users/858442/articles/1242050-empirical-quantification-of-topobathymetric-lidar-system-resolution-using-modulation-transfer-function>`_
+Please head over to ESS OpenArchive to read my latest journal article pre-print titled `Empirical Quantification of Topobathymetric LiDAR System Resolution using Modulation Transfer Function <https://essopenarchive.org/users/858442/articles/1242050-empirical-quantification-of-topobathymetric-lidar-system-resolution-using-modulation-transfer-function>`_
 
 LiDAR Range-Height MTF Code
 ===========================
@@ -24,10 +24,12 @@ The data folder here has some .csv point cloud files you can open in a point clo
 
 The simulated bathymetric point cloud data was generated using an instrument sampling model framework with raytracing and a time-dependent, dynamic water surface model.
 
+The example point clouds contain several point-source and line-source targets for computing range-height MTF.
+
 |gifdemo|
 
-.. |gifdemo| image:: https://github.com/UCBoulder/Lidar-Simulations-AGU24/blob/main/graphics/example.gif
-   :width: 60%
+.. |gifdemo| image:: https://github.com/UCBoulder/Lidar-Simulations-AGU24/blob/main/graphics/water-surface-demo.gif
+   :width: 80%
 
 License
 =======
