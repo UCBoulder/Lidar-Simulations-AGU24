@@ -6,21 +6,25 @@ About
 
 Author: Kevin Sacca (email:kevin.sacca@colorado.edu)
 
-The purpose of this page is to show off data, graphics, videos, and more from my research presented at AGU 2024 that cannot be part of my poster!
+This repository contains additional data, graphics, videos, and more from my research presented at AGU 2024.
+
 
 AGU ESS Journal Paper Pre-print
 ==============================
 
 Please head over to ESS OpenArchive to read my latest journal article pre-print titled `Empirical Quantification of Topobathymetric LiDAR System Resolution using Modulation Transfer Function <https://essopenarchive.org/users/858442/articles/1242050-empirical-quantification-of-topobathymetric-lidar-system-resolution-using-modulation-transfer-function>`_
 
+
 AGU Digital Poster Resource
 ===========================
-`Link to my poster on AGU Online Poster Library <https://agu24.ipostersessions.com/Default.aspx?s=86-E6-C0-64-C7-F4-B5-CB-FE-40-26-D5-F0-59-88-8A>`_
+`Link to my digital poster on the AGU Online Poster Library <https://agu24.ipostersessions.com/Default.aspx?s=86-E6-C0-64-C7-F4-B5-CB-FE-40-26-D5-F0-59-88-8A>`_
+
 
 LiDAR Range-Height MTF Code
 ===========================
 
 The GitHub repository `3DMTF <https://github.com/UCBoulder/3DMTF>`_ contains Python code for calculating range-height MTF from 3D LiDAR point clouds of point source and line source targets.
+
 
 Simulated Bathymetric LiDAR Data
 ================================
@@ -34,6 +38,7 @@ The example point clouds contain several point-source and line-source targets fo
 
 .. |gifdemo| image:: https://github.com/UCBoulder/Lidar-Simulations-AGU24/blob/main/graphics/water-surface-demo.gif
    :width: 80%
+
 
 License
 =======
