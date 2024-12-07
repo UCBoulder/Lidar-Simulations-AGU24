@@ -13,6 +13,10 @@ AGU ESS Journal Paper Pre-print
 
 Please head over to ESS OpenArchive to read my latest journal article pre-print titled `Empirical Quantification of Topobathymetric LiDAR System Resolution using Modulation Transfer Function <https://essopenarchive.org/users/858442/articles/1242050-empirical-quantification-of-topobathymetric-lidar-system-resolution-using-modulation-transfer-function>`_
 
+AGU Digital Poster Resource
+===========================
+`Link to my poster on AGU Online Poster Library <https://agu24.ipostersessions.com/Default.aspx?s=86-E6-C0-64-C7-F4-B5-CB-FE-40-26-D5-F0-59-88-8A>`_
+
 LiDAR Range-Height MTF Code
 ===========================
 
